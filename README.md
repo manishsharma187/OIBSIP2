@@ -1,2 +1,1 @@
-# OIBSIP2
-Personal portfolio
+# Portfolio
